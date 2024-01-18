@@ -1,0 +1,22 @@
+﻿@model Employee
+@{
+    var age = "";
+    if(Model == null)
+    {
+         age = "____";
+
+    }
+    else
+    {
+         age = (DateTime.Now.Year - Model.DateOfBirth.Value.Year).ToString();
+    }
+}
+<td>@Html.DisplayFor(s=>s.Id)</td>
+<td>@Html.DisplayFor(s=>s.FullName)</td>
+<td>@age</td>
+<td>@Html.DisplayFor(s=>s.PhoneNumber)</td>
+<td>@Html.DisplayFor(s=>s.Email)</td>
+<td>@Html.DisplayFor(s=>s.Gender.Name)</td>
+<td>@Html.DisplayFor(s=>s.Department.Name)</td>
+
+

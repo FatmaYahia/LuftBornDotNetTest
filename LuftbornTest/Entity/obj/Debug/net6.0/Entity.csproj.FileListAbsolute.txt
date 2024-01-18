@@ -1,0 +1,15 @@
+G:\Luftbord Technical Test\LuftbornTest\Entity\bin\Debug\net6.0\Entity.deps.json
+G:\Luftbord Technical Test\LuftbornTest\Entity\bin\Debug\net6.0\Entity.dll
+G:\Luftbord Technical Test\LuftbornTest\Entity\bin\Debug\net6.0\Entity.pdb
+G:\Luftbord Technical Test\LuftbornTest\Entity\bin\Debug\net6.0\Common.dll
+G:\Luftbord Technical Test\LuftbornTest\Entity\bin\Debug\net6.0\Common.pdb
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\Entity.csproj.CopyComplete
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\Entity.dll
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\refint\Entity.dll
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\Entity.pdb
+G:\Luftbord Technical Test\LuftbornTest\Entity\obj\Debug\net6.0\ref\Entity.dll

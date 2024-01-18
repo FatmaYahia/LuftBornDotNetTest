@@ -1,0 +1,11 @@
+G:\Luftbord Technical Test\LuftbornTest\Common\bin\Debug\net6.0\Common.deps.json
+G:\Luftbord Technical Test\LuftbornTest\Common\bin\Debug\net6.0\Common.dll
+G:\Luftbord Technical Test\LuftbornTest\Common\bin\Debug\net6.0\Common.pdb
+G:\Luftbord Technical Test\LuftbornTest\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\Luftbord Technical Test\LuftbornTest\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+G:\Luftbord Technical Test\LuftbornTest\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+G:\Luftbord Technical Test\LuftbornTest\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+G:\Luftbord Technical Test\LuftbornTest\Common\obj\Debug\net6.0\Common.dll
+G:\Luftbord Technical Test\LuftbornTest\Common\obj\Debug\net6.0\refint\Common.dll
+G:\Luftbord Technical Test\LuftbornTest\Common\obj\Debug\net6.0\Common.pdb
+G:\Luftbord Technical Test\LuftbornTest\Common\obj\Debug\net6.0\ref\Common.dll

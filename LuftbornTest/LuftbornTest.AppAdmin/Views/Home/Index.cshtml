@@ -1,0 +1,58 @@
+﻿@model HomeVM
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="row">
+
+    <div class="col-md-4">
+        <section class="card card-featured-left card-featured-primary mb-4">
+            <div class="card-body">
+                <div class="widget-summary widget-summary-xlg">
+                    <div class="widget-summary-col widget-summary-col-icon">
+                        <div class="summary-icon bg-primary">
+                            <i class="fas fa-user"></i>
+                        </div>
+                    </div>
+                    <div class="widget-summary-col">
+                        <div class="summary">
+                            <h4 class="title">Employee</h4>
+                            <div class="info">
+                                <strong class="amount">@Model.employess</strong>
+                            </div>
+                        </div>
+                        <div class="summary-footer">
+                            <a class="text-muted text-uppercase" asp-action="Index" asp-controller="Employee">(view all)</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div class="col-md-4">
+        <section class="card card-featured-left card-featured-primary mb-4">
+            <div class="card-body">
+                <div class="widget-summary widget-summary-xlg">
+                    <div class="widget-summary-col widget-summary-col-icon">
+                        <div class="summary-icon bg-primary">
+                            <i class="fas fa-cog"></i>
+                        </div>
+                    </div>
+                    <div class="widget-summary-col">
+                        <div class="summary">
+                            <h4 class="title">Department</h4>
+                            <div class="info">
+                                <strong class="amount">@Model.Department</strong>
+                            </div>
+                        </div>
+                        <div class="summary-footer">
+                            <a class="text-muted text-uppercase" asp-action="Index" asp-controller="Department">(view all)</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+
+</div>
